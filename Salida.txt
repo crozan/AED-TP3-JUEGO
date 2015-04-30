@@ -1,0 +1,92 @@
+Bienvenido! Por favor ingrese sus respuestas con numeros o letras en mayuscula (sin acentos), segun corresponda.
+Elija una opcion (1/2): 
+1. Introducir nombre de usuario.
+2. Salir del programa.
+Esta seguro que desea salir del programa?(S/N)
+Elija una opcion (1/2): 
+1. Introducir nombre de usuario.
+2. Salir del programa.
+Ingrese su nombre de usuario: 
+Cynthia elija una opcion (1/2/3/4):
+1. Elegir tematica de las preguntas.
+2. Ver puntaje.
+3. Cambiar usuario.
+4. Salir del programa
+Elija (1/2/3/4):
+1. Naturaleza
+2. Geografia
+3. Historia
+4. Literatura
+Cynthia ha elegido Naturaleza.
+1. Que animal tiene el cuello mas largo?
+Su respuesta es correcta!
+Desea avanzar a la siguiente pregunta? (S/N): 
+2. Como se llaman los animales que comen carne?
+Su respuesta es correcta!
+Desea avanzar a la siguiente pregunta? (S/N): 
+3. Como se llaman los animales que se mueven tanto en tierra como en agua?
+Su respuesta es correcta!
+Desea avanzar a la siguiente pregunta? (S/N): 
+4. Como se llama el proceso por el cual las plantas consiguen energia?
+Su respuesta es correcta!
+Desea avanzar a la siguiente pregunta? (S/N): 
+5. Como se llama la molecula donde se guarda el codigo genetico humano?
+Su respuesta es correcta!
+Ha contestado todas las preguntas para esta tematica. Su puntaje es: 5
+Su puntaje total hasta el momento es: 5
+Cynthia elija una opcion (1/2/3/4):
+1. Elegir tematica de las preguntas.
+2. Ver puntaje.
+3. Cambiar usuario.
+4. Salir del programa
+Elija (1/2/3/4):
+1. Naturaleza
+2. Geografia
+3. Historia
+4. Literatura
+Cynthia ha elegido Naturaleza.
+Ya ha contestado todas las preguntas de esta tematica. Elija una nueva opcion.
+Cynthia elija una opcion (1/2/3/4):
+1. Elegir tematica de las preguntas.
+2. Ver puntaje.
+3. Cambiar usuario.
+4. Salir del programa
+Participante Cynthia su puntaje es 5 sobre 5 respuestas contestadas. Excelente!
+Cynthia elija una opcion (1/2/3/4):
+1. Elegir tematica de las preguntas.
+2. Ver puntaje.
+3. Cambiar usuario.
+4. Salir del programa
+Elija (1/2/3/4):
+1. Naturaleza
+2. Geografia
+3. Historia
+4. Literatura
+Cynthia eligio Historia
+1. En que año fue la Revolucion de Mayo?
+Su respuesta es correcta!
+Desea avanzar a la siguiente pregunta? (S/N): 
+2. Que epoca finalizo con la invencion de la escritura?
+Su respuesta es correcta!
+Desea avanzar a la siguiente pregunta? (S/N): 
+3. Que importante imperio cayo definitivamente en el año 1453?
+Su respuesta es correcta!
+Desea avanzar a la siguiente pregunta? (S/N): 
+4. En que ciudad se solto la primera bomba atomica el 6 de agosto de 1945?
+Su respuesta es incorrecta. La respuesta correcta es HIROSHIMA
+Desea avanzar a la siguiente pregunta? (S/N): 
+5. Cual es el nombre del conquistador europeo que fue derrotado en la batalla de Waterloo?
+Su respuesta es incorrecta. La respuesta correcta es NAPOLEON
+Ha contestado todas las preguntas para esta tematica. Su puntaje es: 3
+Su puntaje total hasta el momento es: 8
+Cynthia elija una opcion (1/2/3/4):
+1. Elegir tematica de las preguntas.
+2. Ver puntaje.
+3. Cambiar usuario.
+4. Salir del programa
+La opcion elegida es invalida. Ingrese una opcion valida (1/2/3/4): La opcion elegida es invalida. Ingrese una opcion valida (1/2/3/4): Gracias Cynthia por participar! Su puntaje es 8 sobre 10 respuestas contestadas. Excelente!
+Elija una opcion (1/2): 
+1. Introducir nombre de usuario.
+2. Salir del programa.
+Esta seguro que desea salir del programa?(S/N)
+Hasta luego!
